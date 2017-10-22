@@ -18,6 +18,7 @@ Inspiration: [Awesome-TechForGood](https://github.com/TechforgoodCAST/awesome-te
 - [skillsmatter](https://skillsmatter.com) Treasure trove of recorded talks.
 - [FreeCodeCamp](https://www.freecodecamp.org/) Just sign up and start learning fundamentals of web development. A common favourite.
 - [CodeClub](https://codeclubprojects.org/en-GB/) - Starter projects
+- [AwayWithWords](http://awaywithwords.co/) - Catherine blogs about her experience learning to code
 - [pluralsight](http://pluralsight.co) - online coding courses for the working programmer
 
 ## Tech for good

@@ -6,7 +6,7 @@ Inspiration: [Awesome-TechForGood](https://github.com/TechforgoodCAST/awesome-te
 ## Subheadings
 - [Coding](#coding)
 - [Tech for good](#tech-for-good)
-- [Workshops](#workshops-and-introductions-to-coding)
+- [Workshops](#workshops-and-introductions-to-coding-with-more-than-2-events-a-year)
 - [Courses](#courses)
 - [Work Space](#work-space)
 - [Miscellaneous](#miscellaneous)
@@ -25,8 +25,7 @@ Inspiration: [Awesome-TechForGood](https://github.com/TechforgoodCAST/awesome-te
 - [bethnal green ventures](https://bethnalgreenventures.com/) Social startup incubator - open application rounds twice yearly
 - [Women Hack For Non Profits](http://www.womenhackfornonprofits.com/) - Work on projects for non profit-organisations, plus workshops and talks. Beginner-friendly.
 
-## Workshops and Introductions to coding 
-- (> 2 events/year)
+## Workshops and Introductions to coding with more than 2 events a year
 - [ladiesofcode london meetup](https://www.meetup.com/Ladies-of-Code-UK/) - Workshops in London
 - [WomenWhoCodeLondon](https://www.meetup.com/Women-Who-Code-London/) - Events, Talks and Workshops with industry partners
 - [codebar.io](codebar.io) - Weekly courses run by volunteer mentors at a range of tech company/office locations

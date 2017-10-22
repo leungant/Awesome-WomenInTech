@@ -1,14 +1,16 @@
 # Awesome Women in tech
 
-A selection of groups with significant contribution from women and resources useful to Women in tech. Inspiration [Awesome-TechForGood](https://github.com/TechforgoodCAST/awesome-techforgood)
+A selection of groups with significant contribution from women and resources useful to Women in tech. 
+Inspiration: [Awesome-TechForGood](https://github.com/TechforgoodCAST/awesome-techforgood)
 
-## Sections
+## FF!
 - [Coding](#coding)
 - [Tech for good](#tech-for-good)
-- [Workshops](#Workshops-and-Introductions-to-coding-(>-2-events/year))
+- [Workshops](#workshops-and-introductions-to-coding)
 - [Courses](#courses)
-- [Work Space](#work-wpace)
+- [Work Space](#work-space)
 - [Miscellaneous](#miscellaneous)
+
 
 ## Coding
 - [KhanAcademy](https://www.khanacademy.org/computing/computer-programming) - computer coding courses over video
@@ -23,7 +25,8 @@ A selection of groups with significant contribution from women and resources use
 - [bethnal green ventures](https://bethnalgreenventures.com/) Social startup incubator - open application rounds twice yearly
 - [Women Hack For Non Profits](http://www.womenhackfornonprofits.com/) - Work on projects for non profit-organisations, plus workshops and talks. Beginner-friendly.
 
-## Workshops and Introductions to coding (> 2 events/year)
+## Workshops and Introductions to coding
+(> 2 events/year)
 - [WomenWhoCodeLondon](https://www.meetup.com/Women-Who-Code-London/) - Events, Talks and Workshops
 - [codebar.io](codebar.io) - Weekly courses run by volunteer mentors in various locations
 - [ladiesofcode london meetup](https://www.meetup.com/Ladies-of-Code-UK/) - Workshops in London
@@ -34,13 +37,13 @@ A selection of groups with significant contribution from women and resources use
 - [One Health Tech](https://www.meetup.com/OneHealthTechUK/) - women in health tech
 - [Node Girls](http://nodegirls.io/) - [@nodegirlslondon](@nodegirlslondon) - Javascript and Node workshops
 - [Rails Girls](http://railsgirls.com/) - international organisation running free conference/workshops in a city near you (London 1-2nd December 2017)
-- [Django Girls](https://djangogirls.org/) - [@djangogirls](http://twitter.com/@djangogirls) (Free Conference London 8/9th December 2017)
+- [Django Girls](https://djangogirls.org/) - (Free Conference London 8/9th December 2017)  [@djangogirls](http://twitter.com/@djangogirls)
 - [ReactJS Girls](https://twitter.com/ReactJSgirls) - React meetups and workshops
 - [ClojureBridge](https://twitter.com/@ClojureBridge) - Try Clojure if you've been working/studying code for more than a year
 
 ## Courses
-- [Mums in Tech](https://www.mumsintechnology.co.uk/) - [@MumsinTech](http://twitter.com/@mumsintech] Weekly courses with onsite childcare
-- [23 Code Street](https://twitter.com/23codestreet) - Women only coding course provider
+- [Mums in Tech](https://www.mumsintechnology.co.uk/) - [@MumsinTech](http://twitter.com/@mumsintech) Weekly courses with onsite childcare
+- [23 Code Street](https://twitter.com/23codestreet) - Women only coding courses
 
 
 ## Work Space
@@ -49,8 +52,9 @@ A selection of groups with significant contribution from women and resources use
 
 
 ## Miscellaneous
-- [timewisejobs](https://www.timewisejobs.co.uk/) Part time and flexible-friendly jobs board 
-- [Fawcett Society](https://www.fawcettsociety.org.uk/) Campaigners for Women's rights and gender equality
-- [Future Girl Corp](https://twitter.com/FutureGirlCorp) Women in Business
-- [Develop Her](https://twitter.com/developheruk) - business/tech networking groups, annual mentorship scheme
+- [timewisejobs](https://www.timewisejobs.co.uk/) - Part time and flexible-friendly jobs board 
+- [Fawcett Society](https://www.fawcettsociety.org.uk/) - Campaigners for Women's rights and gender equality
+- [Future Girl Corp](https://twitter.com/FutureGirlCorp) - Women in Business
+- [Develop Her](https://twitter.com/developheruk) - Business/tech networking groups, annual mentorship scheme
 
+Please fork/pr/contribute/take over!

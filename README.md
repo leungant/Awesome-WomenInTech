@@ -34,7 +34,6 @@ Inspiration: [Awesome-TechForGood](https://github.com/TechforgoodCAST/awesome-te
 - [CodeClub](https://www.codeclub.org.uk/) - network of organisations providing clubs for 9-13 year olds
 - [@blackgirltech](https://twitter.com/@blackgirltech) - introductory workshops to coding. https://home.blackgirl.tech/
 - [One Health Tech](https://www.meetup.com/OneHealthTechUK/) - women in health tech
-
 - [Node Girls](http://nodegirls.io/) - [@nodegirlslondon](@nodegirlslondon) - Javascript and Node workshops
 - [Rails Girls](http://railsgirls.com/) - international organisation running free conference/workshops in a city near you (London 1-2nd December 2017)
 - [Django Girls](https://djangogirls.org/) - (Free Conference London 8/9th December 2017)  [@djangogirls](http://twitter.com/@djangogirls)

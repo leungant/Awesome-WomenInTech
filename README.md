@@ -57,4 +57,5 @@ Inspiration: [Awesome-TechForGood](https://github.com/TechforgoodCAST/awesome-te
 - [Future Girl Corp](https://twitter.com/FutureGirlCorp) - Women in Business
 - [Develop Her](https://twitter.com/developheruk) - Business/tech networking groups, annual mentorship scheme
 
-Please fork/pr/contribute/take over!
+
+Please fork/pr/contribute/feedback etc!

@@ -1,7 +1,7 @@
 # Awesome Women in tech
 
-A selection of groups with significant contribution from women and resources useful to Women in tech. 
-Inspiration: [Awesome-TechForGood](https://github.com/TechforgoodCAST/awesome-techforgood)
+A selection of groups with significant contribution from women and resources useful to those in tech. 
+Inspiration: [Awesome-TechForGood](https://github.com/TechforgoodCAST/awesome-techforgood) 
 
 ## Subheadings
 - [Coding](#coding)

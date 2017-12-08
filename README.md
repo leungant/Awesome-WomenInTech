@@ -59,7 +59,8 @@ Inspiration: [Awesome-TechForGood](https://github.com/TechforgoodCAST/awesome-te
 ## Miscellaneous
 - [timewisejobs](https://www.timewisejobs.co.uk/) - Part time and flexible-friendly jobs board 
 - [Fawcett Society](https://www.fawcettsociety.org.uk/) - Campaigners for Women's rights and gender equality
-- [Future Girl Corp](https://twitter.com/FutureGirlCorp) - Women in Business
+- [Future Girl Corp](https://twitter.com/FutureGirlCorp) - Women in and starting businesses 
+- [Geek Girl Meetup](http://www.geekgirlmeetup.co.uk/) - Group of women working in tech, design and startups.
 - [Develop Her](https://twitter.com/developheruk) - Business/tech networking groups, annual mentorship scheme
 
 
